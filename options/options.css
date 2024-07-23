@@ -1,0 +1,44 @@
+body {
+  background-color: indianred;
+}
+
+h1 {
+  color: antiquewhite;
+  text-align: center;
+  font-size: 50px;
+  margin: 10px;
+  font-weight: normal;
+}
+
+h2 {
+  font-weight: normal;
+  color: antiquewhite;
+}
+
+#time-option {
+  outline: none;
+  border: none;
+  width: 300px;
+  border-radius: 4px;
+  padding: 10px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+}
+
+#save-btn {
+  display: block;
+  margin-top: 40px;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  padding: 10px;
+  color: indianred;
+  font-weight: bold;
+  cursor: pointer;
+}
